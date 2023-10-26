@@ -1,0 +1,28 @@
+body {
+    background-color: yellow;
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-shadow: 5px 8px 2px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    text-indent: 10px;
+
+
+}
